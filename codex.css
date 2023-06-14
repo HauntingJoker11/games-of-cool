@@ -1,0 +1,21 @@
+h1 {
+    text-align:center;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+td, th {
+    border:1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+th {
+    background-color: #d3d3d3;
+}
+#i {
+    width:295px;
+}
+#o {
+    width:283px;
+}

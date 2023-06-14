@@ -1,0 +1,18 @@
+#cookie_stuf {
+    text-align:center;
+}
+.butt {
+    background-color: green;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-weight: bold;
+    color: white;
+}
+#cookie {
+    height:200px;
+
+}
+.butt:hover {
+    transform: scale(1.1,1.1);;
+}
